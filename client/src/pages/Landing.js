@@ -252,16 +252,17 @@ const Landing = () => {
             <div className="">
               <div className=" ">
                 <p className="uppercase text-blue-500">Office address</p>
-                <p>No 1, Zone A, Odo - Efo Osere Ilorin</p>
+                <p>No. 5 Bakin Dogo, Palladan, Zaria </p>
               </div>
               <div className=" ">
                 <p className="uppercase text-blue-500">phone number</p>
-                <p>07035236371</p>
+                <p>08101134092</p>
+                <p>07044889258</p>
               </div>
               <div className=" lowercase">
                 <p className="uppercase text-blue-500">Contact us</p>
-                <p>admin@mydataplug.com.ng</p>
-                <p>horlaseriolayinka@gmail.com</p>
+                <p>admin@constantdata.com.ng</p>
+                <p>Mauryatinge@gmail.com</p>
               </div>
             </div>
           </div>
