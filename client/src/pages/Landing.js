@@ -252,7 +252,7 @@ const Landing = () => {
             <div className="">
               <div className=" ">
                 <p className="uppercase text-blue-500">Office address</p>
-                <p>No. 5 Bakin Dogo, Palladan, Zaria </p>
+                <p>No. 5 Bakin Dogo, Palladan, Zaria</p>
               </div>
               <div className=" ">
                 <p className="uppercase text-blue-500">phone number</p>
