@@ -228,7 +228,7 @@ const Landing = () => {
         </div>
       </section>
       <section className="mt-10 bg-black pb-2   text-white border items-center">
-        <div className="p-4  max-w-[1300px] m-auto w-11/12">
+        <div className="py-2  max-w-[1300px] m-auto w-11/12">
           <div className=" flex justify-between gap-8 md:gap-0 items-center capitalize mb-4">
             <div className="rounded-full hidden w-48 md:block">
               <img src="./assets/logo.png" alt="" className="img" />
@@ -252,7 +252,7 @@ const Landing = () => {
             <div className="">
               <div className=" ">
                 <p className="uppercase text-blue-500">Office address</p>
-                <p>No. 5 Bakin Dogo, Palladan, Zaria</p>
+                <p>Plot 4A RD E GRA Zaria Kaduna</p>
               </div>
               <div className=" ">
                 <p className="uppercase text-blue-500">phone number</p>
