@@ -141,7 +141,7 @@ const DashBoard = () => {
             </p>
           </div>
           <p className="text-sm ">
-            Account name <br /> mydataplug-
+            Account name <br /> constantData-
             {user.userName && user.userName.substring(0, 10)}
           </p>
           <div className="text-sm">
@@ -172,7 +172,7 @@ const DashBoard = () => {
         <div className="card m-auto md:m-0 bg-[var(--primary-600)] text-white ">
           <h1 className="sub__title">refer a friend</h1>
           <div className="note">
-            Refer people to mydataplug and earn ₦500 immediately the person
+            Refer people to constantData and earn ₦500 immediately the person
             upgrade his/her account to Reseller.
           </div>
           <button className="btn btn-hipster" onClick={copyReferralLink}>
